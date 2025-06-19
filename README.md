@@ -20,13 +20,16 @@ This system simplifies the entire parcel process — from booking to delivery �
 - Real-time status updates at every step of the delivery process.
 - A smart, scalable, and reliable delivery solution tailored for businesses.
 
-## 🛠️ What You Will Learn
+## 🚀 Key Features & Capabilities
 
-- **Homepage Design:** Create a professional and responsive layout.
-- **Styling:** Use Tailwind CSS and DaisyUI for modern styling.
-- **Theme Customization:** Build and customize your own DaisyUI themes.
-- **Interactive Carousel:** Implement interactive carousels using React Swiper.
-- **Branded Landing Page:** Develop a user-friendly and visually appealing landing page.
+- **Comprehensive Parcel Booking:** Seamlessly book parcels across all 64 districts of Bangladesh with easy-to-use forms and instant payment options.
+- **Real-Time Tracking:** Merchants and customers can track parcels live at every stage — from pickup to final delivery.
+- **Automated Charge Calculation:** System intelligently calculates delivery charges based on parcel type, weight, and destination, ensuring accurate billing.
+- **Role-Based Access:** Separate user roles for Merchants, Admins, and Delivery Agents, each with tailored dashboards and functionalities.
+- **Efficient Delivery Management:** Admin can assign delivery agents, manage warehouses, and monitor inter-city parcel movements.
+- **Delivery Agent Workflow:** Agents can verify tracking numbers, update delivery statuses, and earn commissions for completed deliveries.
+- **Responsive & Intuitive UI:** Designed for smooth experience on both desktop and mobile devices.
+- **Scalable & Modular Architecture:** Built to easily add new features or expand coverage without disrupting existing services.
 
 ## 🚀 Technology Stack
 
