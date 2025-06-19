@@ -23,7 +23,9 @@ const ClientLogoMarquee = () => {
   return (
     <section className="py-10 bg-base-200">
       <div className="max-w-7xl mx-auto px-4">
-        <h2 className="text-2xl font-semibold text-center mb-8">Trusted By</h2>
+        <h2 className="text-2xl text-primary font-semibold text-center my-12">
+          Trusted By
+        </h2>
 
         <Marquee
           speed={50}
@@ -32,11 +34,11 @@ const ClientLogoMarquee = () => {
           direction="left"
         >
           {brands.map((logo, index) => (
-            <div key={index} className="mx-6">
+            <div key={index} className="mx-24 flex items-center">
               <img
                 src={logo}
                 alt={`Client logo ${index + 1}`}
-                className="h-16 w-auto object-contain"
+                className="h-6 w-auto object-contain"
               />
             </div>
           ))}
