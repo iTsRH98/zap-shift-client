@@ -27,7 +27,7 @@ const Register = () => {
 
         const userInfo = {
           email: data.email,
-          role: "user",
+          role: "admin",
           created_at: new Date().toISOString(),
           last_log_in: new Date().toISOString(),
         };
